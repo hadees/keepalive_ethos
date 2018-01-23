@@ -1,0 +1,5 @@
+#!/usr/bin/env ruby
+
+require 'keepalive_ethos/cli'
+
+KeepaliveEthos::CLI.start
